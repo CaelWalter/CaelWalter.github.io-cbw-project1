@@ -1,0 +1,17 @@
+{
+  "name": "John Doe",
+  "interests": ["coding", "open source", "photography"],
+  "projects": [
+    {
+      "name": "Project One",
+      "description": "A project about something interesting."
+    },
+    {
+      "name": "Project Two",
+      "description": "Another fascinating project."
+    }
+  ]
+}
+
+
+
